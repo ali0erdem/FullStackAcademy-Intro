@@ -1,0 +1,19 @@
+/*comment line starts 
+--> Which elements we want to style
+--> How we want to style them
+
+
+/*
+li is a kind of Selector. ALL <li> tags will be same with these css definition.
+property: value both named declaration.
+*/
+
+
+li {
+    color: blue;
+    background-color: black;
+}
+
+h1 {
+    color: red;
+}
